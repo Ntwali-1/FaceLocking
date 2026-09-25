@@ -22,9 +22,10 @@ models/
 # Tools
 .opencode/
 .idea/
-.vscode/
 *.log
 
 # OS
 Thumbs.db
 .DS_Store
+config.bat
+node_modules
