@@ -27,5 +27,9 @@ models/
 # OS
 Thumbs.db
 .DS_Store
-config.bat
 node_modules
+
+# Local environment files; keep sanitized examples trackable
+.env
+.env.*
+!.env.example
